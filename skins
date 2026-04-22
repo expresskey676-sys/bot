@@ -1,688 +1,1205 @@
-"[Knife]", "King Karambit" = 4.500.000
-"[Knife]", "Cyan Karambit" = 3.500.000
-"[Knife]", "RGB Bubu" = 1.100.000
-"[House]", "Edge Residence" = 1.000.000
-"[House]", "Villa Nix" = 900.000
-"[House]", "Villa Oxa Lux" = 850.000
-"[Knife]", "RGB Karambit" = 510.000
-"[Knife]", "RGB Dual Bayonets" = 505.000
-"[Knife]", "GPO Prestige" = 495.000
-"[Knife]", "Hers" = 340.000
-"[Knife]", "His" = 330.000
-"[Knife]", "Purple Blaze" = 330.000
-"[Knife]", "Green Blaze" = 305.000
-"[Knife]", "Red Blaze" = 290.000
-"[Knife]", "Rose" = 285.000
-"[Knife]", "Blue Blaze" = 250.000
-"[Wallet]", "Pepsi Roblex" = 240.000
-"[Wallet]", "Audemoon" = 230.000
-"[Knife]", "Galaxy" = 225.000
-"[Vehicle]", "sCar" = 175.000
-"[House]", "Villa" = 175.000
-"[Vehicle]", "sSupe Kart" = 140.000
-"[Knife]", "Golden Age Tanto" = 130.000
-"[Wallet]", "Rose Roblex" = 120.000
-"[House]", "Studio House" = 100.000
-"[House]", "Brick Modern" = 80.000
-"[Vehicle]", "sGT Kart" = 80.000
-"[Vehicle]", "sMcMelon" = 75.000
-"[Revolver]", "Golden Age" = 60.000
-"[House]", "Pink II" = 60.000
-"[Vehicle]", "sUltra" = 57.000
-"[House]", "Pink House" = 55.000
-"[Vehicle]", "sRayliner" = 50.000
-"[House]", "Container House" = 45.000
-"[Knife]", "Iced Out" = 44.500
-"[Double]", "BarrelGolden Age" = 44.000
-"[Vehicle]", "sMuscle C Purple" = 40.000
-"[Knife]", "Love Kukri" = 39.000
-"[Knife]", "Reptile" = 37.000
-"[Double]", "BarrelChristmas Wrap" = 35.000
-"[Knife]", "Galactic Red" = 35.000
-"[Revolver]", "Christmas Wrap" = 35.000
-"[House]", "Classic 1" = 35.000
-"[Tactical]", "SGChristmas Wrap" = 35.000
-"[Vehicle]", "sElectric Car" = 33.500
-"[Knife]", "Heaven" = 32.000
-"[Revolver]", "Web Hero II" = 31.000
-"[Revolver]", "Web Hero III" = 31.000
-"[Revolver]", "Absolute Authority" = 30.000
-"[House]", "Contemporary House" = 30.000
-"[Revolver]", "Galaxy" = 30.000
-"[Double]", "BarrelGalaxy" = 29.500
-"[Revolver]", "Wild West" = 28.000
-"[Vehicle]", "sRanger" = 27.000
-"[Revolver]", "Ninja" = 27.000
-"[Double]", "BarrelWild West" = 26.000
-"[Double]", "BarrelNinja" = 25.000
-"[Vehicle]", "sMuscle B Black" = 25.000
-"[Double]", "BarrelIced Out" = 24.500
-"[Revolver]", "Iced Out" = 24.500
-"[Knife]", "Dual Bayonets" = 23.500
-"[Knife]", "Wild West" = 23.000
-"[Double]", "BarrelReptile" = 23.000
-"[Revolver]", "Reptile" = 23.000
-"[Revolver]", "Raygun" = 22.000
-"[Revolver]", "Heaven" = 20.000
-"[Knife]", "GPO" = 20.000
-"[Vehicle]", "s811 Turbo S (Orange)" = 20.000
-"[Tactical]", "SGGalaxy" = 19.500
-"[Vehicle]", "sMuscle C Black" = 19.000
-"[Double]", "BarrelHeaven" = 18.000
-"[Flamethrower]", "Electric" = 15.500
-"[Knife]", "Moon" = 15.000
-"[House]", "Modern" = 15.000
-"[Revolver]", "GPO Prestige" = 15.000
-"[Rifle]", "Galaxy" = 15.000
-"[Tactical]", "SGElectric" = 13.500
-"[Vehicle]", "sTriWheel Red" = 13.000
-"[Silencer]", "Galaxy" = 12.500
-"[AR]", "Galaxy" = 12.500
-"[Glock]", "Galaxy" = 12.500
-"[Double]", "BarrelElectric" = 12.500
-"[Double]", "BarrelBlue Wrap" = 12.500
-"[AUG]", "Galaxy" = 12.500
-"[Tactical]", "SGBlue Wrap" = 12.500
-"[Silencer]", "ARGalaxy" = 12.500
-"[Revolver]", "Blue Wrap" = 12.500
-"[Vehicle]", "s811 Turbo (Green)" = 11.000
-"[Tactical]", "SGNumbers" = 11.000
-"[Knife]", "Dragon" = 11.000
-"[Revolver]", "Inferno" = 10.000
-"[Rifle]", "Christmas Wrap" = 10.000
-"[Revolver]", "Dragon" = 10.000
-"[DrumGun]", "Galaxy" = 10.000
-"[SMG]", "Galaxy" = 10.000
-"[Double]", "BarrelDragon" = 10.000
-"[AK47]", "Galaxy" = 10.000
-"[Knife]", "(Snack) Popsicle" = 10.000
-"[Wallet]", "Emerald Roblex" = 10.000
-"[Vehicle]", "sCyber" = 10.000
-"[Double]", "BarrelInferno" = 9.500
-"[Revolver]", "Electric" = 9.500
-"[Flamethrower]", "Luck" = 9.000
-"[Flamethrower]", "Valentine" = 8.500
-"[Revolver]", "Valentine" = 8.500
-"[Tactical]", "SGInferno" = 8.500
-"[Knife]", "Galactic" = 8.500
-"[Revolver]", "Luck" = 8.000
-"[Knife]", "Shadow" = 8.000
-"[Revolver]", "Void" = 8.000
-"[LMG]", "Galaxy" = 8.000
-"[AUG]", "Christmas Wrap" = 8.000
-"[Double]", "BarrelLuck" = 8.000
-"[RPG]", "Electric" = 8.000
-"[Glock]", "Christmas Wrap" = 7.500
-"[Silencer]", "Christmas Wrap" = 7.500
-"[Double]", "BarrelValentine" = 7.500
-"[Double]", "BarrelMagma" = 7.000
-"[Knife]", "Emerald Butterfly" = 7.000
-"[House]", "Villa Nova" = 7.000
-"[Knife]", "(Snack) Mochi" = 7.000
-"[AK47]", "Christmas Wrap" = 7.000
-"[DrumGun]", "Christmas Wrap" = 7.000
-"[Revolver]", "Thunder II" = 7.000
-"[Knife]", "(Snack) Watermelon" = 7.000
-"[Silencer]", "ARChristmas Wrap" = 7.000
-"[Double]", "BarrelMagma" = 7.000
-"[Tactical]", "SGValentine" = 6.500
-"[Revolver]", "Shadow" = 6.000
-"[Vehicle]", "sGolf Cart" = 6.000
-"[Knife]", "Void" = 6.000
-"[Vehicle]", "sKart" = 6.000
-"[Knife]", "Raygun" = 6.000
-"[Tactical]", "SGVoid" = 6.000
-"[Flamethrower]", "Galaxy" = 5.750
-"[RPG]", "Galaxy" = 5.750
-"[House]", "Modern Town" = 5.000
-"[Vehicle]", "sAmbulance" = 5.000
-"[P90]", "Galaxy" = 5.000
-"[Wallet]", "Stacks" = 5.000
-"[Flamethrower]", "Shadow" = 5.000
-"[Flintlock]", "Music" = 5.000
-"[Tactical]", "SGShadow" = 5.000
-"[Shotgun]", "Galaxy" = 5.000
-"[Wallet]", "Bitcoin" = 5.000
-"[Knife]", "RGB Butterfly" = 5.000
-"[House]", "House 2" = 5.000
-"[Double]", "BarrelShadow" = 5.000
-"[RPG]", "Luck" = 5.000
-"[House]", "Modern Town" = 5.000
-"[Double]", "BarrelShadow" = 5.000
-"[Vehicle]", "sAmbulance" = 5.000
-"[Wallet]", "Credit Card Pink" = 4.500
-"[Wallet]", "Credit Card" = 4.500
-"[Revolver]", "Rainbow" = 4.500
-"[House]", "Town" = 4.500
-"[Vehicle]", "sUnicorn" = 4.500
-"[Double]", "BarrelRainbow" = 4.500
-"[Double]", "BarrelFish" = 4.500
-"[Wallet]", "Pink Purse II" = 4.500
-"[Knife]", "Golden" = 4.250
-"[Double]", "BarrelRed Skull" = 4.250
-"[Knife]", "Cutesy" = 4.250
-"[Wallet]", "Kin" = 4.100
-"[Wallet]", "Pig" = 4.000
-"[Revolver]", "Patriot" = 4.000
-"[Knife]", "Ghost" = 4.000
-"[Revolver]", "Undead" = 4.000
-"[Revolver]", "GPO II" = 4.000
-"[Vehicle]", "sMuscle B" = 4.000
-"[Knife]", "Emerald" = 4.000
-"[Revolver]", "Red Hot" = 4.000
-"[Revolver]", "Red Skull" = 4.000
-"[RPG]", "Shadow" = 4.000
-"[Tactical]", "SGSnow Wrap" = 4.000
-"[Vehicle]", "sMotorcycle Side Seat" = 4.000
-"[Double]", "BarrelPatriot" = 4.000
-"[Shotgun]", "Christmas Wrap" = 4.000
-"[Knife]", "Solar" = 4.000
-"[Revolver]", "Red Hot" = 4.000
-"[Wallet]", "Pig" = 4.000
-"[Knife]", "Ghost" = 4.000
-"[Knife]", "Cartoon" = 3.750
-"[Revolver]", "Tact" = 3.750
-"[Double]", "BarrelTact" = 3.750
-"[Vehicle]", "sGhost" = 3.500
-"[Vehicle]", "sSamurai" = 3.500
-"[Vehicle]", "sNightmare" = 3.500
-"[Double]", "BarrelSnow Wrap" = 3.500
-"[Vehicle]", "sMidnight" = 3.500
-"[Vehicle]", "sBlossom" = 3.500
-"[Knife]", "Soul" = 3.500
-"[RPG]", "Golden Tralalero" = 3.500
-"[Vehicle]", "sJellyfish" = 3.500
-"[Vehicle]", "sWraith" = 3.500
-"[Revolver]", "Kitty" = 3.500
-"[Revolver]", "Water" = 3.500
-"[Knife]", "Wireframe" = 3.500
-"[Tactical]", "SGRainbow" = 3.500
-"[Shotgun]", "Red Hot" = 3.500
-"[Vehicle]", "sTriWheel" = 3.500
-"[Rifle]", "Luck" = 3.500
-"[Double]", "BarrelCartoon" = 3.500
-"[Vehicle]", "sCow" = 3.500
-"[Vehicle]", "sMusic" = 3.500
-"[Vehicle]", "sArcane" = 3.500
-"[Wallet]", "Designer Pink" = 3.500
-"[Revolver]", "Cartoon" = 3.500
-"[Vehicle]", "sRibbon" = 3.500
-"[Revolver]", "Hero" = 3.500
-"[Vehicle]", "sMusic" = 3.500
-"[Vehicle]", "sArcane" = 3.500
-"[Revolver]", "Water" = 3.500
-"[Vehicle]", "sToy Tank" = 3.500
-"[Rifle]", "Inferno" = 3.500
-"[Wallet]", "Designer Pink" = 3.500
-"[RPG]", "Golden Tralalero" = 3.500
-"[Glock]", "Inferno" = 3.250
-"[Glock]", "Luck" = 3.250
-"[Glock]", "Blue Wrap" = 3.250
-"[Silencer]", "Blue Wrap" = 3.250
-"[Revolver]", "Toy" = 3.250
-"[RPG]", "Kitty" = 3.250
-"[Revolver]", "Cutesy" = 3.250
-"[Double]", "BarrelCutesy" = 3.250
-"[Silencer]", "Inferno" = 3.250
-"[Silencer]", "Luck" = 3.250
-"[Silencer]", "ARLuck" = 3.250
-"[Silencer]", "ARInferno" = 3.250
-"[Tactical]", "SGPatriot" = 3.000
-"[AUG]", "Blue Wrap" = 3.000
-"[House]", "Gingerbread House" = 3.000
-"[AK47]", "Blue Wrap" = 3.000
-"[Tactical]", "SGRed Hot" = 3.000
-"[Vehicle]", "sDelivery Car" = 3.000
-"[House]", "Pizza Restaurant" = 3.000
-"[Knife]", "Emerald-Bayonet" = 3.000
-"[Double]", "Barrel8BIT" = 3.000
-"[Revolver]", "Wrapped" = 3.000
-"[House]", "Pizza Restaurant" = 3.000
-"[House]", "Gingerbread House" = 3.000
-"[House]", "Holiday Town" = 3.000
-"[Revolver]", "8BIT" = 3.000
-"[Revolver]", "Spectre" = 3.000
-"[Tactical]", "SGTact" = 3.000
-"[Revolver]", "Wrapped" = 3.000
-"[Flamethrower]", "Cartoon" = 3.000
-"[Knife]", "Unicorn" = 3.000
-"[Knife]", "Emerald-Bayonet" = 3.000
-"[Flamethrower]", "Kitty" = 3.000
-"[Tactical]", "SGGalactic" = 3.000
-"[AR]", "Luck" = 3.000
-"[DrumGun]", "Inferno" = 3.000
-"[Rifle]", "Blue Wrap" = 3.000
-"[Flamethrower]", "Christmas Wrap" = 3.000
-"[House]", "Garage Home" = 3.000
-"[AR]", "Inferno" = 3.000
-"[Flamethrower]", "Water" = 3.000
-"[Double]", "Barrel8BIT" = 3.000
-"[Double]", "BarrelWireframe" = 3.000
-"[Revolver]", "Wireframe" = 3.000
-"[Double]", "BarrelWater" = 3.000
-"[AK47]", "Blue Wrap" = 3.000
-"[Vehicle]", "sATV" = 3.000
-"[Vehicle]", "sDelivery Moped" = 3.000
-"[RPG]", "Cartoon" = 3.000
-"[Tactical]", "SGGPO" = 3.000
-"[Silencer]", "ARBlue Wrap" = 3.000
-"[Vehicle]", "sDelivery Car" = 3.000
-"[RPG]", "Toy" = 3.000
-"[House]", "Garage Home" = 3.000
-"[Knife]", "Unicorn" = 3.000
-"[Revolver]", "Wireframe" = 3.000
-"[Vehicle]", "sDelivery Car" = 3.000
-"[AK47]", "Blue Wrap" = 3.000
-"[Revolver]", "Spectre" = 3.000
-"[Knife]", "Fantasy" = 3.000
-"[Double]", "BarrelWireframe" = 3.000
-"[Vehicle]", "sDelivery Moped" = 3.000
-"[Revolver]", "Wrapped" = 3.000
-"[AUG]", "Luck" = 3.000
-"[RPG]", "Military" = 2.750
-"[Tactical]", "SGMilitary" = 2.750
-"[Revolver]", "Candy" = 2.750
-"[AUG]", "Military" = 2.750
-"[Knife]", "Military" = 2.750
-"[RPG]", "Candy" = 2.750
-"[Double]", "BarrelMilitary" = 2.750
-"[Knife]", "Candy" = 2.750
-"[Double]", "BarrelCandy" = 2.750
-"[Revolver]", "Military" = 2.750
-"[LMG]", "Candy" = 2.750
-"[Shotgun]", "Electric" = 2.700
-"[RPG]", "Frozen" = 2.500
-"[LMG]", "Toy" = 2.500
-"[Flamethrower]", "Mystical" = 2.500
-"[RPG]", "Mystical" = 2.500
-"[Revolver]", "Ruby" = 2.500
-"[Double]", "BarrelRuby" = 2.500
-"[Flamethrower]", "8BIT" = 2.500
-"[Shotgun]", "Snow Wrap" = 2.500
-"[Revolver]", "Cat" = 2.500
-"[SMG]", "Wireframe" = 2.500
-"[Tactical]", "SGWater" = 2.500
-"[LMG]", "Toy" = 2.500
-"[Knife]", "Undead" = 2.500
-"[Flamethrower]", "Love" = 2.500
-"[Revolver]", "Mystical" = 2.500
-"[RPG]", "Ruby" = 2.500
-"[Revolver]", "Ethereal" = 2.500
-"[Double]", "BarrelEthereal" = 2.500
-"[Silencer]", "ARRed Hot" = 2.500
-"[Knife]", "Ethereal" = 2.500
-"[RPG]", "Ethereal" = 2.500
-"[RPG]", "Love" = 2.500
-"[Double]", "BarrelToon" = 2.500
-"[Double]", "BarrelUndead" = 2.500
-"[Revolver]", "Toon" = 2.500
-"[SMG]", "Red Hot" = 2.500
-"[Revolver]", "Love" = 2.500
-"[Knife]", "Love" = 2.500
-"[Tactical]", "SGLove" = 2.500
-"[RPG]", "Halloween" = 2.500
-"[Tactical]", "SGSpooky" = 2.500
-"[AR]", "Halloween" = 2.500
-"[RPG]", "8BIT" = 2.500
-"[Flamethrower]", "Ethereal" = 2.500
-"[Knife]", "Aqua" = 2.500
-"[Double]", "BarrelDH STARS" = 2.500
-"[Double]", "BarrelMetal" = 2.500
-"[SMG]", "Red Hot" = 2.500
-"[Knife]", "Spooky" = 2.500
-"[Revolver]", "Spooky" = 2.500
-"[RPG]", "Spooky" = 2.500
-"[Flamethrower]", "Spooky" = 2.500
-"[Double]", "BarrelSpooky" = 2.500
-"[Tactical]", "SGPortal" = 2.500
-"[Revolver]", "Toon" = 2.500
-"[Knife]", "Spatula" = 2.500
-"[Tactical]", "SGSpooky" = 2.500
-"[Flamethrower]", "Ethereal" = 2.500
-"[RPG]", "Love" = 2.500
-"[AR]", "Halloween" = 2.500
-"[Knife]", "Cupid" = 2.500
-"[Knife]", "Shrimp" = 2.500
-"[Tactical]", "SGWater" = 2.500
-"[RPG]", "Penguin" = 2.500
-"[AR]", "Red Hot" = 2.500
-"[LMG]", "Toy" = 2.500
-"[Rifle]", "Metal" = 2.500
-"[Knife]", "GPO II" = 2.500
-"[AUG]", "GPO II" = 2.500
-"[Knife]", "Xmas" = 2.500
-"[Shotgun]", "Halloween" = 2.500
-"[RPG]", "Xmas" = 2.500
-"[Double]", "BarrelXmas" = 2.500
-"[Flamethrower]", "Xmas" = 2.500
-"[Revolver]", "Portal" = 2.500
-"[Revolver]", "Unicorn" = 2.500
-"[Flamethrower]", "Red Hot" = 2.500
-"[Knife]", "Blossom" = 2.500
-"[LMG]", "Toy" = 2.500
-"[Flamethrower]", "Penguin" = 2.500
-"[AR]", "Patriot" = 2.500
-"[Revolver]", "Cat" = 2.500
-"[Silencer]", "ARPatriot" = 2.500
-"[AUG]", "GPO II" = 2.500
-"[RPG]", "Cat" = 2.500
-"[Double]", "BarrelPortal" = 2.500
-"[Tactical]", "SGUnicorn" = 2.500
-"[Double]", "BarrelRuby" = 2.500
-"[Knife]", "Nightmare" = 2.500
-"[RPG]", "Red Skull" = 2.500
-"[RPG]", "8BIT" = 2.500
-"[AK47]", "Patriot" = 2.500
-"[RPG]", "Red Hot" = 2.500
-"[Double]", "BarrelEthereal" = 2.500
-"[Knife]", "Ethereal" = 2.500
-"[Knife]", "Penguin" = 2.500
-"[Revolver]", "Mystical" = 2.500
-"[Revolver]", "Ethereal" = 2.500
-"[Tactical]", "SGSpooky" = 2.500
-"[Knife]", "Cat" = 2.500
-"[Knife]", "Metal" = 2.500
-"[RPG]", "Metal" = 2.500
-"[RPG]", "Christmas Wrap" = 2.500
-"[Double]", "BarrelDH STARS" = 2.500
-"[Revolver]", "Xmas" = 2.500
-"[Flamethrower]", "Metal" = 2.500
-"[Flamethrower]", "Metal" = 2.500
-"[Double]", "BarrelPenguin" = 2.500
-"[Knife]", "Butterfly" = 2.500
-"[Double]", "BarrelLove" = 2.500
-"[Flamethrower]", "Love" = 2.500
-"[Knife]", "Spatula" = 2.500
-"[AK47]", "Patriot" = 2.500
-"[Tactical]", "SGLove" = 2.500
-"[Revolver]", "Love" = 2.500
-"[Knife]", "Love" = 2.500
-"[RPG]", "Love" = 2.500
-"[Double]", "BarrelMetal" = 2.500
-"[Knife]", "VIP" = 2.500
-"[Knife]", "Aqua" = 2.500
-"[Tactical]", "SGWater" = 2.500
-"[DrumShotgunCatValue2,500]", "" = NaN
-"[Revolver]", "Penguin" = 2.500
-"[Knife]", "Metal" = 2.500
-"[Knife]", "Jellyfish" = 2.500
-"[Knife]", "Midnight" = 2.500
-"[Revolver]", "Gothic" = 2.500
-"[Double]", "BarrelGothic" = 2.500
-"[RPG]", "Penguin" = 2.500
-"[Knife]", "Nightmare" = 2.500
-"[RPG]", "Toon" = 2.500
-"[Knife]", "Grumpy" = 2.500
-"[RPG]", "8BIT" = 2.500
-"[Flamethrower]", "Penguin" = 2.500
-"[Knife]", "GPO II" = 2.500
-"[AK47]", "Red Hot" = 2.500
-"[RPG]", "Cat" = 2.500
-"[Revolver]", "Cat" = 2.500
-"[Tactical]", "SGWater" = 2.500
-"[Knife]", "Blossom" = 2.500
-"[AK47]", "Red Hot" = 2.500
-"[Revolver]", "Cupid" = 2.500
-"[Knife]", "Cat" = 2.500
-"[SMG]", "Patriot" = 2.500
-"[Revolver]", "Xmas" = 2.500
-"[Flamethrower]", "Xmas" = 2.500
-"[Tactical]", "SGUnicorn" = 2.500
-"[Revolver]", "Mystical" = 2.500
-"[Knife]", "Spatula" = 2.500
-"[Double]", "BarrelPortal" = 2.500
-"[Double]", "BarrelUnicorn" = 2.500
-"[LMG]", "Toy" = 2.500
-"[Tactical]", "SGPortal" = 2.500
-"[SMG]", "Wireframe" = 2.500
-"[Revolver]", "Ethereal" = 2.500
-"[Double]", "BarrelToon" = 2.500
-"[Shotgun]", "Luck" = 2.400
-"[RPG]", "Inferno" = 2.400
-"[Flamethrower]", "Inferno" = 2.400
-"[SMG]", "Luck" = 2.400
-"[SMG]", "Inferno" = 2.300
-"[Shotgun]", "Inferno" = 2.300
-"[RPG]", "Aqua" = 2.250
-"[Revolver]", "Aqua" = 2.250
-"[Double]", "BarrelAqua" = 2.250
-"[SMG]", "Electric" = 2.000
-"[Vehicle]", "sPolice" = 2.000
-"[Double]", "BarrelEmerald" = 2.000
-"[SMG]", "Valentine" = 2.000
-"[Revolver]", "Emerald" = 2.000
-"[RPG]", "Music" = 2.000
-"[DrumGun]", "Red Hot" = 2.000
-"[SMG]", "GPO II" = 2.000
-"[Revolver]", "Duck" = 2.000
-"[RPG]", "Duck" = 2.000
-"[Double]", "BarrelButterfly" = 2.000
-"[AK47]", "GPO II" = 2.000
-"[RPG]", "Bombardino" = 2.000
-"[Rifle]", "Red Hot" = 2.000
-"[Double]", "BarrelNightmare" = 2.000
-"[Shotgun]", "Blue Wrap" = 2.000
-"[Tactical]", "SGTung" = 2.000
-"[P90]", "Patriot" = 2.000
-"[RPG]", "GPO II" = 2.000
-"[Revolver]", "Beary" = 2.000
-"[RPG]", "Patriot" = 2.000
-"[Double]", "BarrelBeary" = 2.000
-"[Double]", "BarrelBlossom" = 2.000
-"[Rifle]", "Snow Wrap" = 2.000
-"[RPG]", "Short Cake" = 2.000
-"[RPG]", "Snow Wrap" = 2.000
-"[P90]", "Red Hot" = 2.000
-"[Flamethrower]", "Short Cake" = 2.000
-"[Revolver]", "Blossom" = 2.000
-"[Revolver]", "Butterfly" = 2.000
-"[Revolver]", "Cappuccina" = 2.000
-"[RPG]", "Music" = 2.000
-"[P90]", "Red Hot" = 2.000
-"[Double]", "BarrelMusic" = 2.000
-"[Revolver]", "Blossom" = 2.000
-"[Double]", "BarrelArcade" = 2.000
-"[Tactical]", "SGJellyfish" = 2.000
-"[Revolver]", "Biohazard" = 2.000
-"[Revolver]", "Arcade" = 2.000
-"[Revolver]", "Gold Glory" = 2.000
-"[Double]", "BarrelDuck" = 2.000
-"[Double]", "BarrelShort Cake" = 2.000
-"[Revolver]", "Jellyfish" = 2.000
-"[Shotgun]", "Valentine" = 2.000
-"[RPG]", "Patriot" = 2.000
-"[RPG]", "Grumpy" = 2.000
-"[AR]", "Snow Wrap" = 2.000
-"[Double]", "BarrelWatermelini" = 2.000
-"[Revolver]", "Purple Yellow Wrap" = 2.000
-"[Vehicle]", "sReindeer" = 2.000
-"[Flamethrower]", "Snow Wrap" = 2.000
-"[Revolver]", "Pink Fuchsia" = 2.000
-"[Shotgun]", "Kitty" = 2.000
-"[Shotgun]", "Red Skull" = 2.000
-"[Revolver]", "Grumpy" = 2.000
-"[Shotgun]", "Fish" = 2.000
-"[Double]", "BarrelGrumpy" = 2.000
-"[RPG]", "Sushi" = 2.000
-"[Double]", "BarrelGPO II" = 2.000
-"[RPG]", "Snow Wrap" = 2.000
-"[RPG]", "Nightmare" = 2.000
-"[Double]", "BarrelJellyfish" = 2.000
-"[Revolver]", "Blossom" = 2.000
-"[Revolver]", "Duck" = 2.000
-"[Double]", "BarrelEmerald" = 2.000
-"[Double]", "BarrelSamurai" = 2.000
-"[AR]", "Snow Wrap" = 2.000
-"[Double]", "BarrelNightmare" = 2.000
-"[Revolver]", "Purple Yellow Wrap" = 2.000
-"[Flamethrower]", "Snow Wrap" = 2.000
-"[Revolver]", "Pink Fuchsia" = 2.000
-"[Shotgun]", "Kitty" = 2.000
-"[Revolver]", "Nightmare" = 2.000
-"[Shotgun]", "Red Skull" = 2.000
-"[Shotgun]", "Fish" = 2.000
-"[RPG]", "Jellyfish" = 2.000
-"[Double]", "BarrelBlossom" = 2.000
-"[RPG]", "Patriot" = 2.000
-"[Double]", "BarrelDuck" = 2.000
-"[RPG]", "Short Cake" = 2.000
-"[Flamethrower]", "Short Cake" = 2.000
-"[Double]", "BarrelShort Cake" = 2.000
-"[Revolver]", "Cappuccina" = 2.000
-"[Revolver]", "Beary" = 2.000
-"[RPG]", "Snow Wrap" = 2.000
-"[Flamethrower]", "Duck" = 2.000
-"[Rifle]", "Patriot" = 2.000
-"[Revolver]", "Short Cake" = 2.000
-"[RPG]", "Beary" = 2.000
-"[Revolver]", "Samurai" = 2.000
-"[Double]", "BarrelRibbon" = 2.000
-"[Double]", "BarrelJellyfish" = 2.000
-"[Revolver]", "Samurai" = 2.000
-"[Double]", "BarrelSamurai" = 2.000
-"[RPG]", "Midnight" = 2.000
-"[Revolver]", "Midnight" = 2.000
-"[Double]", "BarrelMidnight" = 2.000
-"[Revolver]", "Wraith" = 2.000
-"[Double]", "BarrelWraith" = 2.000
-"[RPG]", "Ribbon" = 2.000
-"[Revolver]", "Ribbon" = 2.000
-"[Double]", "BarrelRibbon" = 2.000
-"[Revolver]", "Kingpin" = 2.000
-"[Double]", "BarrelKingpin" = 2.000
-"[Revolver]", "Paper" = 2.000
-"[Double]", "BarrelPaper" = 2.000
-"[RPG]", "Bubu" = 2.000
-"[Revolver]", "Bubu" = 2.000
-"[Double]", "BarrelBubu" = 2.000
-"[RPG]", "Ghost" = 2.000
-"[Revolver]", "Ghost" = 2.000
-"[Double]", "BarrelGhost" = 2.000
-"[SMG]", "Shadow" = 1.950
-"[Shotgun]", "Shadow" = 1.950
-"[Knife]", "Bat Sharp" = 1.950
-"[DrumShotgunInfernoValue1,900]", "" = NaN
-"[DrumShotgunLuckValue1,900]", "" = NaN
-"[P90]", "Luck" = 1.900
-"[LMG]", "Inferno" = 1.900
-"[Tactical]", "SGUndead" = 1.900
-"[Knife]", "Red Tiger" = 1.900
-"[RPG]", "Undead" = 1.900
-"[LMG]", "Luck" = 1.900
-"[P90]", "Inferno" = 1.900
-"[Rifle]", "GPO" = 1.900
-"[RPG]", "GPO" = 1.900
-"[Glock]", "Electric" = 1.800
-"[Double]", "BarrelGlassy" = 1.800
-"[Revolver]", "Glassy" = 1.800
-"[AK47]", "Electric" = 1.800
-"[Revolver]", "Icey" = 1.800
-"[P90]", "Electric" = 1.800
-"[Silencer]", "ARElectric" = 1.800
-"[Rifle]", "Electric" = 1.800
-"[AR]", "Electric" = 1.800
-"[DrumGun]", "Electric" = 1.800
-"[LMG]", "Electric" = 1.800
-"[Revolver]", "Red Tiger" = 1.800
-"[Silencer]", "Electric" = 1.800
-"[Double]", "BarrelIcey" = 1.800
-"[Double]", "BarrelRed Tiger" = 1.800
-"[AUG]", "Electric" = 1.800
-"[AUG]", "Shadow" = 1.700
-"[AR]", "Valentine" = 1.700
-"[Rifle]", "Valentine" = 1.700
-"[AR]", "Shadow" = 1.700
-"[LMG]", "Valentine" = 1.700
-"[DrumGun]", "Shadow" = 1.700
-"[AK47]", "Shadow" = 1.700
-"[Silencer]", "ARShadow" = 1.700
-"[Rifle]", "Shadow" = 1.700
-"[Silencer]", "Valentine" = 1.700
-"[Silencer]", "ARValentine" = 1.700
-"[P90]", "Valentine" = 1.700
-"[Glock]", "Valentine" = 1.700
-"[AUG]", "Valentine" = 1.700
-"[AK47]", "Valentine" = 1.700
-"[Silencer]", "Shadow" = 1.700
-"[DrumGun]", "Valentine" = 1.700
-"[P90]", "Shadow" = 1.700
-"[LMG]", "Shadow" = 1.650
-"[Tactical]", "SGGlassy" = 1.600
-"[Tactical]", "SGIcey" = 1.600
-"[Tactical]", "SGRed Tiger" = 1.600
-"[Mask]", "sSki Mask Horns White" = 1.500
-"[DrumGun]", "Snow Wrap" = 1.500
-"[SMG]", "Icey" = 1.500
-"[SMG]", "Red Tiger" = 1.500
-"[P90]", "Christmas Wrap" = 1.500
-"[Double]", "BarrelDanger" = 1.500
-"[Flamethrower]", "Gold Glory" = 1.500
-"[Silencer]", "Patriot" = 1.500
-"[LMG]", "Red Hot" = 1.500
-"[Glock]", "Patriot" = 1.500
-"[Vehicle]", "sSedan" = 1.500
-"[Glock]", "Red Hot" = 1.500
-"[Glock]", "Shadow" = 1.500
-"[AUG]", "Red Hot" = 1.500
-"[AUG]", "Patriot" = 1.500
-"[AUG]", "Snow Wrap" = 1.500
-"[SMG]", "Glassy" = 1.500
-"[Silencer]", "Red Hot" = 1.500
-"[AK47]", "Kingpin" = 1.500
-"[Silencer]", "Tact" = 1.500
-"[Revolver]", "Red Death" = 1.500
-"[RPG]", "Hero" = 1.500
-"[Shotgun]", "Hero" = 1.500
-"[Tactical]", "SGBiohazard" = 1.500
-"[Shotgun]", "Frulla" = 1.500
-"[Mask]", "sSki Mask Horns" = 1.500
-"[Tactical]", "SGRed Death" = 1.500
-"[Shotgun]", "Glassy" = 1.500
-"[Rifle]", "Grumpy" = 1.500
-"[LMG]", "Grumpy" = 1.500
-"[LMG]", "Patriot" = 1.500
-"[Double]", "BarrelRed Death" = 1.500
-"[RPG]", "Gold Glory" = 1.500
-"[AK47]", "Emerald" = 1.500
-"[Shotgun]", "Red Tiger" = 1.500
-"[Revolver]", "Danger" = 1.500
-"[Mask]", "sSki Mask Horns DH" = 1.500
-"[Tactical]", "SGPink Fuchsia" = 1.500
-"[RPG]", "Matrix" = 1.500
-"[Rifle]", "VIP" = 1.500
-"[Shotgun]", "Icey" = 1.500
-"[Silencer]", "ARSnow Wrap" = 1.500
-"[P90]", "Glassy" = 1.300
-"[Revolver]", "Venom" = 1.300
-"[LMG]", "Red Tiger" = 1.300
-"[Glock]", "Red Tiger" = 1.300
-"[Tactical]", "SGDanger" = 1.300
-"[Revolver]", "Premium Yellow" = 1.300
-"[RPG]", "Glassy" = 1.300
-"[P90]", "Red Tiger" = 1.300
-"[Glock]", "Glassy" = 1.300
-"[Double]", "BarrelFuture" = 1.300
-"[Double]", "BarrelVenom" = 1.300
-"[Revolver]", "Black White" = 1.300
-"[DrumGun]", "Red Tiger" = 1.300
-"[Rifle]", "Red Tiger" = 1.300
-"[Rifle]", "Icey" = 1.300
-"[LMG]", "Icey" = 1.300
-"[Double]", "BarrelPremium Yellow" = 1.300
-"[Revolver]", "Premium Red" = 1.300
-"[Flamethrower]", "Icey" = 1.300
-"[DrumGun]", "Icey" = 1.300
-"[Flamethrower]", "Red Tiger" = 1.300
-"[Flamethrower]", "Glassy" = 1.300
-"[AK47]", "Icey" = 1.300
-"[Revolver]", "Future" = 1.300
-"[DrumGun]", "Glassy" = 1.300
-"[RPG]", "Icey" = 1.300
-"[Silencer]", "Icey" = 1.300
-"[Silencer]", "ARGlassy" = 1.300
-"[Double]", "BarrelBlack White" = 1.300
-"[RPG]", "Red Tiger" = 1.300
-"[Double]", "BarrelPremium Red" = 1.300
-"[AK47]", "Red Tiger" = 1.300
-"[Rifle]", "Glassy" = 1.300
-"[AR]", "Red Tiger" = 1.300
+[Mask]Bandana Black = 100
+[Mask]Hockey = 100
+[Mask]Shrimp
+[Mask]Hockey DH = 500
+[Mask]Ski Mask Skull
+[Mask]Ski Mask Red Eye
+[Mask]Ski Mask II DH
+[Mask]Ski Mask Red
+[Mask]VIP
+[Mask]Ski Mask
+[Mask]Ski Mask Saint II
+[Mask]Ski Mask Half Green
+[Mask]Ski Mask Pink
+[Mask]Bandana DH
+[Mask]Ski Mask Horns
+[Mask]Ski Mask Horns White
+[Mask]Hockey Gradient
+[Mask]Ski Mask Horns Pink
+[Mask]Ski Mask Horns DH
+[Mask]Ski Mask Blue
+[Mask]Ski Mask II
+[Mask]Ski Mask X)
+[Mask]Ski Mask DH
+[Mask]Wraith = 2,500
+[Mask]Ski Mask Saint
+[Rifle]Jungle Blaster = 100
+[Rifle]Shadow = 1,700
+[Rifle]Danger
+[Rifle]Red Hot = 2,000
+[Rifle]Battleworn Purple
+[Rifle]VIP = 1,500
+[Rifle]Battleworn Red
+[Rifle]White Stripes
+[Rifle]Inferno = 3,500
+[Rifle]Valentine = 1,700
+[Rifle]Balloon
+[Rifle]Future
+[Rifle]Venom
+[Rifle]Pink Fuchsia
+[Rifle]GPO-Light = 1,900
+[Rifle]Purple Yellow Wrap
+[Rifle]Snow Wrap = 2,000
+[Rifle]Grumpy = 1,500
+[Rifle]Icey = 1,300
+[Rifle]Black & White
+[Rifle]Electric = 1,800
+[Rifle]Glassy = 1,300
+[Rifle]Block
+[Rifle]Battleworn Pink
+[Rifle]Premium Red
+[Rifle]Blue Wrap
+[Rifle]Matrix
+[Rifle]Luck = 3,500
+[Rifle]Galaxy = 15,000
+[Rifle]Rainbow = 1,000
+[Rifle]Gold Glory = 1,000
+[Rifle]Red Death = 1,000
+[Rifle]Premium Yellow = 1,000
+[Rifle]Christmas Wrap = 10,000
+[Rifle]Red Tiger
+[Rifle]Battleworn Orange
+[Rifle]1984
+[Rifle]Patriot
+[Rifle]Battleworn Green
+[Rifle]Biohazard
+[Rifle]Metal = 2,500
+[Shotgun]Jungle Blaster
+[Shotgun]Shadow = 1,950
+[Shotgun]Danger = 1,200
+[Shotgun]Red Hot = 3,500
+[Shotgun]Halloween23 = 2,500
+[Shotgun]Battleworn Purple
+[Shotgun]Red Skull = 2,000
+[Shotgun]Battleworn Red
+[Shotgun]White Stripes
+[Shotgun]Inferno = 2,300
+[Shotgun]Valentine = 2,000
+[Shotgun]Balloon
+[Shotgun]Kitty = 2,000
+[Shotgun]Future
+[Shotgun]Brainrot = 1,500
+[Shotgun]Venom
+[Shotgun]Pink Fuchsia
+[Shotgun]Bat-Hero
+[Shotgun]Purple Yellow Wrap
+[Shotgun]Hoodmas
+[Shotgun]Fish = 2,000
+[Shotgun]Tact = 2,000
+[Shotgun]Black & White
+[Shotgun]Electric = 2,700
+[Shotgun]Glassy
+[Shotgun]Snow Wrap = 2,500
+[Shotgun]Battleworn Pink
+[Shotgun]Premium Red
+[Shotgun]Blue Wrap
+[Shotgun]Matrix
+[Shotgun]Luck = 2,400
+[Shotgun]Galaxy = 5,000
+[Shotgun]Rainbow
+[Shotgun]Gold Glory
+[Shotgun]Red Death
+[Shotgun]Premium Yellow
+[Shotgun]Christmas Wrap = 4,000
+[Shotgun]Red Tiger
+[Shotgun]Battleworn Orange
+[Shotgun]1984
+[Shotgun]Patriot = 2,000
+[Shotgun]Battleworn Green
+[Shotgun]Biohazard
+[Shotgun]Icey = 1,500
+[Silencer]Jungle Blaster
+[Silencer]Shadow = 1,700
+[Silencer]Danger = 1,000
+[Silencer]Red Hot = 1,500
+[Silencer]Battleworn Purple
+[Silencer]Biohazard
+[Silencer]White Stripes
+[Silencer]Inferno = 3,250
+[Silencer]Valentine = 1,700
+[Silencer]Future
+[Silencer]Venom
+[Silencer]Pink Fuchsia
+[Silencer]Battleworn Lilac
+[Silencer]Purple Yellow Wrap
+[Silencer]Tact = 1,500
+[Silencer]Black & White
+[Silencer]Mummy = 3,000
+[Silencer]Electric = 1,800
+[Silencer]Galaxy = 12,500
+[Silencer]Battleworn Pink
+[Silencer]Snow Wrap = 1,200
+[Silencer]Premium Yellow
+[Silencer]Matrix
+[Silencer]Blue Wrap = 3,250
+[Silencer]Luck = 3,250
+[Silencer]Rainbow
+[Silencer]Glassy
+[Silencer]Red Death = 1,000
+[Silencer]1984
+[Silencer]Christmas Wrap = 7,500
+[Silencer]Premium Red
+[Silencer]Battleworn Orange
+[Silencer]Red Tiger
+[Silencer]Patriot = 1,500
+[Silencer]Battleworn Green
+[Silencer]Gold Glory = 1,000
+[Silencer]Icey = 1,300
+[Revolver]Jungle Blaster
+[Revolver]Shadow = 8,000
+[Revolver]Snow Wrap = 3,500
+[Revolver]Lovely = 2,500
+[Revolver]Red Hot = 4,000
+[Revolver]Stars
+[Revolver]Ruby = 2,500
+[Revolver]White Stripes
+[Revolver]Testing
+[Revolver]Sushi = 2,000
+[Revolver]Iced Out = 24,500
+[Revolver]Portal = 2,500
+[Revolver]Kingpin = 2,000
+[Revolver]Balloon 
+[Revolver]SoulII = 2,500
+[Revolver]XMAS24 = 2,500
+[Revolver]Venom
+[Revolver]Pink Fuchsia
+[Revolver]GingerBread
+[Revolver]Heaven = 20,000
+[Revolver]Skull = 4,000
+[Revolver]Water = 3,500
+[Revolver]Mystical = 2,500
+[Revolver]Samurai = 2,000
+[Revolver]Web-Hero II = 31,000
+[Revolver]Wild West = 28,000
+[Revolver]Soul = 2,500
+[Revolver]Gold Glory = 2,000
+[Revolver]XMAS = 2,500
+[Revolver]Toy = 3,250
+[Revolver]Golden Age = 60,000
+[Revolver]Skeleton = 3,000
+[Revolver]Penguin = 2,500
+[Revolver]Cupid = 2,500
+[Revolver]PrestigeCandyCane = 15,000
+[Revolver]Heartbreak
+[Revolver]Void = 8,000
+[Revolver]Brainrot = 2,000
+[Revolver]Arcade = 2,000
+[Revolver]Tact = 3,750
+[Revolver]Reptile = 23,000
+[Revolver]Block
+[Revolver]Rainbow = 4,500
+[Revolver]Devil
+[Revolver]1984
+[Revolver]Jellyfish = 2,000
+[Revolver]Spectre = 3,000
+[Revolver]Gothic = 2,500
+[Revolver]Galactic = 3,500
+[Revolver]Cartoon = 3,500
+[Revolver]Ice
+[Revolver]Electric = 9,500
+[Revolver]67
+[Revolver]Halloween23 = 2,500
+[Revolver]Blaze = 3,500
+[Revolver]Battleworn Red
+[Revolver]Xmas25
+[Revolver]Valentine = 8,500
+[Revolver]Kitty = 3,500
+[Revolver]Emerald = 2,000
+[Revolver]Short Cake = 2,000
+[Revolver]Galaxy = 30,000
+[Revolver]DH-Stars II
+[Revolver]Battleworn Lilac
+[Revolver]Purple Yellow Wrap
+[Revolver]Black & White
+[Revolver]Wire = 3,000
+[Revolver]Love = 2,500
+[Revolver]Christmas Wrap = 35,000
+[Revolver]PumpkinCat
+[Revolver]Wrapped = 3,000
+[Revolver]Ribbon = 2,000
+[Revolver]Danger
+[Revolver]Battleworn Purple
+[Revolver]Red Skull = 4,000
+[Revolver]DH-Verified
+[Revolver]Arcane = 2,000
+[Revolver]Petal
+[Revolver]Biohazard
+[Revolver]Gift
+[Revolver]Inferno = 10,000
+[Revolver]Runic
+[Revolver]Glassy
+[Revolver]Paper = 2,000
+[Revolver]Beary = 2,000
+[Revolver]Ninja = 27,000
+[Revolver]Battleworn Yellowish
+[Revolver]Butterfly = 2,000
+[Revolver]PurpleRedDualRev = 30,000
+[Revolver]Spooky = 2,500
+[Revolver]CandyCane = 4,000
+[Revolver]Shrimp = 2,000
+[Revolver]Thunder II = 7,000
+[Revolver]Future
+[Revolver]Music = 2,000
+[Revolver]Bubu = 2,000
+[Revolver]Red Tiger
+[Revolver]Aqua = 2,250
+[Revolver]Nightmare = 2,000
+[Revolver]Duck = 2,000
+[Revolver]Icey
+[Revolver]Summer = 2,500
+[Revolver]Blossom = 2,000
+[Revolver]VIP
+[Revolver]Shader
+[Revolver]Grumpy = 2,000
+[Revolver]Hoodmas
+[Revolver]Premium Yellow
+[Revolver]Premium Red
+[Revolver]Undead = 4,000
+[Revolver]Web-Hero III = 31,000
+[Revolver]Battleworn Pink
+[Revolver]Unicorn = 2,500
+[Revolver]Cat = 2,500
+[Revolver]Matrix = 3,000
+[Revolver]Blue Wrap = 12,500
+[Revolver]Raygun = 22,000
+[Revolver]Military = 2,750
+[Revolver]Candy = 2750
+[Revolver]8-BIT = 3,000
+[Revolver]Red Death
+[Revolver]Etheral = 2,500
+[Revolver]Dragon = 10,000
+[Revolver]Luck = 8,000
+[Revolver]Web-Hero = 3,500
+[Revolver]Patriot = 4,000
+[Revolver]Battleworn Green
+[Revolver]Wraith = 2,000
+[Revolver]Metal = 2,500
+[SilencerAR]Jungle Blaster
+[SilencerAR]Shadow = 1,700
+[SilencerAR]Danger
+[SilencerAR]Red Hot = 2,500
+[SilencerAR]Battleworn Purple
+[SilencerAR]Battleworn Red
+[SilencerAR]White Stripes
+[SilencerAR]Inferno = 3,250
+[SilencerAR]Valentine = 1,700
+[SilencerAR]Future
+[SilencerAR]Venom
+[SilencerAR]Pink Fuchsia
+[SilencerAR]Purple Yellow Wrap
+[SilencerAR]Electric = 1,800
+[SilencerAR]Black & White
+[SilencerAR]Battleworn Blue
+[SilencerAR]Glassy = 1,300
+[SilencerAR]Snow Wrap = 1,500
+[SilencerAR]Battleworn Pink
+[SilencerAR]Premium Red
+[SilencerAR]Blue Wrap = 3,000
+[SilencerAR]Matrix
+[SilencerAR]Luck = 3,250
+[SilencerAR]Galaxy = 12,500
+[SilencerAR]Rainbow
+[SilencerAR]Gold Glory
+[SilencerAR]Red Death = 2,500
+[SilencerAR]Premium Yellow
+[SilencerAR]Christmas Wrap = 7,000
+[SilencerAR]Red Tiger
+[SilencerAR]Battleworn Orange
+[SilencerAR]1984
+[SilencerAR]Patriot = 2,500
+[SilencerAR]Battleworn Green
+[SilencerAR]Biohazard
+[SilencerAR]Icey
+[LMG]Jungle Blaster
+[LMG]Shadow = 1,650
+[LMG]Danger
+[LMG]Red Hot = 1,500
+[LMG]Battleworn Purple
+[LMG]Battleworn Red
+[LMG]White Stripes
+[LMG]Inferno = 1,900
+[LMG]Valentine = 1,700
+[LMG]Future
+[LMG]Venom
+[LMG]Pink Fuchsia
+[LMG]Purple Yellow Wrap
+[LMG]Grumpy = 1,500
+[LMG]Gold Glory
+[LMG]Toy = 2,500
+[LMG]Black & White
+[LMG]Electric = 1,800
+[LMG]Glassy
+[LMG]Snow Wrap
+[LMG]Battleworn Pink
+[LMG]Premium Red
+[LMG]Blue Wrap =1,000
+[LMG]Matrix
+[LMG]Luck = 1,900
+[LMG]Galaxy = 8,000
+[LMG]Rainbow
+[LMG]Candy = 2,750
+[LMG]Red Death
+[LMG]Premium Yellow
+[LMG]Christmas Wrap = 1,200
+[LMG]Red Tiger
+[LMG]Battleworn Orange
+[LMG]1984
+[LMG]Patriot = 1,500
+[LMG]Battleworn Green
+[LMG]Biohazard
+[LMG]Icey
+[Vehicle]Moped
+[Vehicle]McLaro = 75,000
+[Vehicle]Heartbreak = 3,500
+[Vehicle]Gati
+[Vehicle]Block
+[Vehicle]Grand
+[Vehicle]Svj = 10,000
+[Vehicle]School Bus
+[Vehicle]Beary = 2,500
+[Vehicle]Cyber = 10,000
+[Vehicle]Golf Cart = 6,000
+[Vehicle]TriWheel = 3,500
+[Vehicle]Tractor
+[Vehicle]Ranger = 27,000
+[Vehicle]Muscle C [Black] = 19,000
+[Vehicle]Cow = 3,500
+[Vehicle]Supe Kart = 140,000
+[Vehicle]Ribbon = 3,500
+[Vehicle]Music = 3,500
+[Vehicle]Truck
+[Vehicle]Kart = 6,000
+[Vehicle]Delivery Car = 3,000
+[Vehicle]McMelon = 75,000
+[Vehicle]Motorcycle 
+[Vehicle]SUV [Black]
+[Vehicle]Beatle = 3,000
+[Vehicle]Muscle C [Purple] = 40,000
+[Vehicle]Arcane = 3,500
+[Vehicle]Skull
+[Vehicle]GT Kart = 80,000
+[Vehicle]Dirt Bike = 3,000
+[Vehicle]Nightmare = 3,500
+[Vehicle]ATV = 3,000
+[Vehicle]Unicorn = 4,500
+[Vehicle]Duck = 3,000
+[Vehicle]SoulII
+[Vehicle]Electric Car = 33,500
+[Vehicle]Burger
+[Vehicle]Muscle B [Black] = 25,000
+[Vehicle]Blossom = 3,500
+[Vehicle]TurboSCyan 
+[Vehicle]TriWheel Red = 13,000
+[Vehicle]Ultra = 57,000
+[Vehicle]Sedan = 1,500
+[Vehicle]Police
+[Vehicle]Samurai = 3,500
+[Vehicle]Toy Tank = 3,500
+[Vehicle]Motorcycle Side Seat = 4,000
+[Vehicle]Rayliner = 50,000
+[Vehicle]Turbo = 11,000
+[Vehicle]McLaroBlue
+[Vehicle]Muscle C = 3,000
+[Vehicle]Reindeer = 2,000
+[Vehicle]Muscle B = 4,000
+[Vehicle]Delivery Moped = 3,000
+[Vehicle]Jellyfish = 3,500
+[Vehicle]Car
+[Vehicle]TurboSOrange = 20,000
+[Vehicle]PumpkinCat
+[Vehicle]ArcanePlus
+[Vehicle]Balloon Kart
+[Vehicle]Luxe
+[Vehicle]Wraith = 3,500
+[Vehicle]Ambulance = 5,000
+[Glock]Jungle Blaster
+[Glock]Shadow = 1,500
+[Glock]Danger
+[Glock]Red Hot = 1,500
+[Glock]Battleworn Purple
+[Glock]Biohazard
+[Glock]White Stripes
+[Glock]Inferno = 3,250
+[Glock]Valentine = 1,700
+[Glock]Future
+[Glock]Venom
+[Glock]Pink Fuchsia
+[Glock]Battleworn Lilac
+[Glock]Purple Yellow Wrap
+[Glock]Black & White
+[Glock]Electric = 1,800
+[Glock]Galaxy = 12,500
+[Glock]Battleworn Pink
+[Glock]Snow Wrap
+[Glock]Premium Yellow
+[Glock]Matrix
+[Glock]Blue Wrap = 3,250
+[Glock]Luck = 3,250
+[Glock]Rainbow
+[Glock]Glassy
+[Glock]Red Death
+[Glock]1984
+[Glock]Christmas Wrap = 7,500
+[Glock]Premium Red
+[Glock]Battleworn Orange
+[Glock]Red Tiger
+[Glock]Patriot = 1,500
+[Glock]Battleworn Green
+[Glock]Gold Glory
+[Glock]Icey = 1,300
+[Double-Barrel SG]Jungle Blaster
+[Double-Barrel SG]Electric = 12,500
+[Double-Barrel SG]GPOII = 2,000
+[Double-Barrel SG]Snow Wrap = 3,500
+[Double-Barrel SG]Lovely = 2,500
+[Double-Barrel SG]Red Hot = 4,000
+[Double-Barrel SG]Halloween23 = 2,500
+[Double-Barrel SG]Stars = 2,500
+[Double-Barrel SG]Ruby = 2,500
+[Double-Barrel SG]Biohazard
+[Double-Barrel SG]White Stripes
+[Double-Barrel SG]Inferno = 9,500
+[Double-Barrel SG]Sushi = 2,000
+[Double-Barrel SG]Iced Out = 24,500
+[Double-Barrel SG]Portal = 2,500
+[Double-Barrel SG]Valentine 7,500
+[Double-Barrel SG]Balloon 
+[Double-Barrel SG]SoulII = 2,500
+[Double-Barrel SG]XMAS24 = 2,500
+[Double-Barrel SG]Emerald = 2,000
+[Double-Barrel SG]Short Cake  = 2,000
+[Double-Barrel SG]Venom
+[Double-Barrel SG]Galaxy = 29,500
+[Double-Barrel SG]GingerBread 
+[Double-Barrel SG]Heaven = 18,000
+[Double-Barrel SG]Purple Yellow Wrap
+[Double-Barrel SG]Skull = 4,250
+[Double-Barrel SG]Water = 3,000
+[Double-Barrel SG]Black & White
+[Double-Barrel SG]Aqua = 2,250
+[Double-Barrel SG]Samurai = 2,000
+[Double-Barrel SG]Icey
+[Double-Barrel SG]Shrimp = 2,000
+[Double-Barrel SG]Wild West = 26,000
+[Double-Barrel SG]Petal 
+[Double-Barrel SG]Soul = 2,500
+[Double-Barrel SG]Love = 2,500
+[Double-Barrel SG]Gold Glory = 2,000
+[Double-Barrel SG]XMAS = 2,500
+[Double-Barrel SG]Christmas Wrap = 35,000
+[Double-Barrel SG]Xmas25 = 2,500
+[Double-Barrel SG]Battleworn Orange
+[Double-Barrel SG]Premium Red
+[Double-Barrel SG]Toy = 3,000
+[Double-Barrel SG]Paper = 2,000
+[Double-Barrel SG]PumpkinCat = 2,500
+[Double-Barrel SG]Ribbon = 2,000
+[Double-Barrel SG]Wraith = 2,000
+[Double-Barrel SG]Golden Age = 44,000
+[Double-Barrel SG]Red Death = 1,500
+[Double-Barrel SG]Danger 
+[Double-Barrel SG]Music = 2,000
+[Double-Barrel SG]Bubu = 2,000
+[Double-Barrel SG]Magma = 7,000
+[Double-Barrel SG]Kingpin = 2,000
+[Double-Barrel SG]Flower = 2,500
+[Double-Barrel SG]Red Skull = 4,250
+[Double-Barrel SG]Angry-Hero
+[Double-Barrel SG]Cupid = 2,500
+[Double-Barrel SG]Duck = 2,000
+[Double-Barrel SG]Blossom = 2,000
+[Double-Barrel SG]Beary = 2,000
+[Double-Barrel SG]ShrimpII = 2,500
+[Double-Barrel SG]Heartbreak = 2,500
+[Double-Barrel SG]Grumpy = 2,000
+[Double-Barrel SG]Reptile = 23,000
+[Double-Barrel SG]Ninja = 25,000
+[Double-Barrel SG]8-BIT = 3,000
+[Double-Barrel SG]Wire = 3,000
+[Double-Barrel SG]Butterfly = 2,000
+[Double-Barrel SG]Unicorn = 2,500
+[Double-Barrel SG]Battleworn Silver
+[Double-Barrel SG]Cat = 2,500
+[Double-Barrel SG]Metal = 2,500
+[Double-Barrel SG]Penguin = 2,500
+[Double-Barrel SG]Future
+[Double-Barrel SG]Brainrot = 2,500
+[Double-Barrel SG]Glassy
+[Double-Barrel SG]Red Tiger
+[Double-Barrel SG]Hoodmas = 1,000
+[Double-Barrel SG]Nightmare = 2,000
+[Double-Barrel SG]Arcade = 2,000
+[Double-Barrel SG]Shadow = 5,000
+[Double-Barrel SG]Luck = 8,000
+[Double-Barrel SG]Etheral = 2,500
+[Double-Barrel SG]Battleworn Purple
+[Double-Barrel SG]Shader
+[Double-Barrel SG]Dragon = 10,000
+[Double-Barrel SG]Battleworn Green
+[Double-Barrel SG]Premium Yellow
+[Double-Barrel SG]Spooky = 2,500
+[Double-Barrel SG]Undead = 2,500
+[Double-Barrel SG]Block
+[Double-Barrel SG]Battleworn Pink
+[Double-Barrel SG]Car = 3,500
+[Double-Barrel SG]Mystical = 3,000
+[Double-Barrel SG]Matrix = 2,500
+[Double-Barrel SG]Tact = 3,750
+[Double-Barrel SG]Pink Fuchsia
+[Double-Barrel SG]Rainbow = 4,500
+[Double-Barrel SG]Candy = 2,750
+[Double-Barrel SG]1984
+[Double-Barrel SG]Jellyfish = 2,000
+[Double-Barrel SG]Fish = 4,500
+[Double-Barrel SG]Military = 2,750
+[Double-Barrel SG]Blue Wrap = 12,500
+[Double-Barrel SG]Gothic = 2,500
+[Double-Barrel SG]Patriot = 4,000
+[Double-Barrel SG]DH-Stars = 2,500
+[Double-Barrel SG]Cartoon = 3,500
+[Double-Barrel SG]Ice = 1,800
+[Drum-Shotgun]Jungle Blaster
+[Drum-Shotgun]Pink Fuchsia
+[Drum-Shotgun]Purple Yellow Wrap
+[Drum-Shotgun]Battleworn Purple
+[Drum-Shotgun]Battleworn Red
+[Drum-Shotgun]Battleworn Blue
+[Drum-Shotgun]Battleworn Pink
+[Drum-Shotgun]Inferno = 1,900
+[Drum-Shotgun]Music = 2,000
+[Drum-Shotgun]Cat = 2,500
+[Drum-Shotgun]Icey = 1,300
+[Drum-Shotgun]Rainbow = 1,000
+[Drum-Shotgun]Luck = 1,900
+[Drum-Shotgun]1984
+[Drum-Shotgun]Galaxy = 5,000
+[Drum-Shotgun]Gold Glory = 1,000
+[Drum-Shotgun]Light Camo
+[Drum-Shotgun]Battleworn Orange
+[Drum-Shotgun]Gothic = 2,500
+[Drum-Shotgun]Patriot = 1,500
+[Drum-Shotgun]Battleworn Green
+[Drum-Shotgun]Red Death = 1,000
+[Drum-Shotgun]Black White
+[SMG]Jungle Blaster
+[SMG]Shadow = 1,950
+[SMG]GPOII = 2,000
+[SMG]Danger
+[SMG]Red Hot
+[SMG]Battleworn Purple
+[SMG]Battleworn Red
+[SMG]White Stripes
+[SMG]Inferno = 2,300
+[SMG]Valentine = 2,000
+[SMG]Battleworn Silver
+[SMG]Future
+[SMG]Venom
+[SMG]Pink Fuchsia
+[SMG]Purple Yellow Wrap
+[SMG]Snow Wrap
+[SMG]Tact = 2,000
+[SMG]Glassy
+[SMG]Black & White
+[SMG]Electric = 2,000
+[SMG]Wire = 2,500
+[SMG]Block
+[SMG]Battleworn Pink
+[SMG]Premium Red
+[SMG]Blue Wrap
+[SMG]Matrix
+[SMG]Luck = 2,400
+[SMG]Galaxy = 10,000
+[SMG]Rainbow
+[SMG]Gold Glory
+[SMG]Red Death
+[SMG]Premium Yellow
+[SMG]Christmas Wrap = 3,000
+[SMG]Red Tiger
+[SMG]Battleworn Orange
+[SMG]1984
+[SMG]Patriot = 2,500
+[SMG]Battleworn Green
+[SMG]Biohazard
+[SMG]Icey
+[TacticalShotgun]Jungle Blaster
+[TacticalShotgun]Shadow = 5,000
+[TacticalShotgun]Danger
+[TacticalShotgun]Lovely
+[TacticalShotgun]Red Hot = 3,000
+[TacticalShotgun]Halloween23 = 2,500
+[TacticalShotgun]Battleworn Purple
+[TacticalShotgun]Luck = 7,000
+[TacticalShotgun]Battleworn Red
+[TacticalShotgun]White Stripes
+[TacticalShotgun]Heartbreak = 2,500
+[TacticalShotgun]Soul = 2,500
+[TacticalShotgun]Premium Red
+[TacticalShotgun]Inferno = 8,500
+[TacticalShotgun]Sushi = 2,000
+[TacticalShotgun]Hoodmas 
+[TacticalShotgun]Portal = 2,500
+[TacticalShotgun]Valentine = 6,500
+[TacticalShotgun]Balloon = 2,500
+[TacticalShotgun]Premium Yellow
+[TacticalShotgun]Beary = 2,500
+[TacticalShotgun]Cloud = 2,500
+[TacticalShotgun]Spooky = 2,500
+[TacticalShotgun]Unicorn = 2,500
+[TacticalShotgun]Red Tiger
+[TacticalShotgun]Gold Glory = 2,000
+[TacticalShotgun]Future
+[TacticalShotgun]Brainrot = 2,000
+[TacticalShotgun]Icey
+[TacticalShotgun]Venom
+[TacticalShotgun]Snow Wrap = 4,000
+[TacticalShotgun]Pink Fuchsia
+[TacticalShotgun]Electric = 13,500
+[TacticalShotgun]GingerBread
+[TacticalShotgun]GPO-Magma = 3,000
+[TacticalShotgun]Purple Yellow Wrap
+[TacticalShotgun]Tact = 3,000
+[TacticalShotgun]Galactic = 3,000
+[TacticalShotgun]Water = 2,500
+[TacticalShotgun]Numbers = 11,000
+[TacticalShotgun]Black & White
+[TacticalShotgun]Glassy
+[TacticalShotgun]Undead = 1,900
+[TacticalShotgun]Block
+[TacticalShotgun]Battleworn Pink
+[TacticalShotgun]Blue Wrap = 12,500
+[TacticalShotgun]Void = 6,000
+[TacticalShotgun]Matrix = 2,500
+[TacticalShotgun]Summer = 2,500
+[TacticalShotgun]Galaxy = 19,500
+[TacticalShotgun]Rainbow = 3,500
+[TacticalShotgun]Love = 2,500
+[TacticalShotgun]Red Death
+[TacticalShotgun]Jellyfish = 2,000
+[TacticalShotgun]Christmas Wrap = 35,000
+[TacticalShotgun]Military = 2,750
+[TacticalShotgun]Battleworn Orange
+[TacticalShotgun]1984
+[TacticalShotgun]Patriot = 3,000
+[TacticalShotgun]Battleworn Green
+[TacticalShotgun]Biohazard
+[TacticalShotgun]Ice
+[AK47]Jungle Blaster
+[AK47]Shadow = 2,000
+[AK47]GPOII = 2,000
+[AK47]Danger
+[AK47]Lovely
+[AK47]Red Hot = 2,500
+[AK47]Battleworn Purple
+[AK47]Battleworn Red
+[AK47]White Stripes
+[AK47]Inferno = 3,000
+[AK47]Heartbreak
+[AK47]Valentine = 1,700
+[AK47]Balloon = 2,500
+[AK47]XMAS24
+[AK47]Emerald = 1,500
+[AK47]Venom
+[AK47]Pink Fuchsia
+[AK47]Purple Yellow Wrap
+[AK47]Snow Wrap = 2,000
+[AK47]Kingpin = 2,000
+[AK47]Electric = 1,800
+[AK47]Black & White
+[AK47]Battleworn Blue
+[AK47]Glassy
+[AK47]Block
+[AK47]Battleworn Pink
+[AK47]Premium Red
+[AK47]Blue Wrap
+[AK47]Matrix
+[AK47]Luck = 3,000
+[AK47]Galaxy = 10,000
+[AK47]Rainbow
+[AK47]Gold Glory
+[AK47]Red Death
+[AK47]Premium Yellow
+[AK47]Christmas Wrap = 7,000
+[AK47]Red Tiger
+[AK47]Battleworn Orange
+[AK47]1984
+[AK47]Patriot = 2,500
+[AK47]Battleworn Green
+[AK47]Biohazard
+[AK47]Icey
+[Knife]Popsicle = 10,000
+[Knife]Shadow = 8,000
+[Knife]GPOII = 2,500
+[Knife]Red Marker
+[Knife]Lovely
+[Knife]Halloween23 = 2,500
+[Knife]Stars
+[Knife]Kunai
+[Knife]Moon = 15,000
+[Knife]Xmas25 = 2,500
+[Knife]Heartbreak
+[Knife]Sushi = 2,500
+[Knife]Iced Out = 44,500
+[Knife]Portal = 2,500
+[Knife]CyanKarambit = 3,500,000
+[Knife]Balloon = 2,500
+[Knife]Petal
+[Knife]SoulII = 3,500
+[Knife]Red Dagger
+[Knife]Blue Marker
+[Knife]Solar = 4,000
+[Knife]XMAS24 = 2,500
+[Knife]Wither
+[Knife]Grumpy = 2,500
+[Knife]Emerald = 4,000
+[Knife]Short Cake = 2,500
+[Knife]Kitchen
+[Knife]Galactic-Red = 35,000
+[Knife]Ruby Fan = 2,500
+[Knife]Emerald-Bayonet = 3,000
+[Knife]GingerBread
+[Knife]Heaven = 32,000
+[Knife]DualCryptos = 505,000
+[Knife]Skull
+[Knife]Scissor
+[Knife]RGB Karambit = 510,000
+[Knife]Paper = 2,500
+[Knife]Mystical = 2,500
+[Knife]Unicorn = 3,000
+[Knife]Blue Dagger
+[Knife]Buster
+[Knife]Wraith = 2,500
+[Knife]Samurai = 2,500
+[Knife]Brown Marker
+[Knife]Sakura
+[Knife]Screw Driver
+[Knife]Orange Marker
+[Knife]Golden Age Tanto = 130,000
+[Knife]Love = 2,500
+[Knife]Green Dagger
+[Knife]XMAS = 2,500
+[Knife]Watermelon = 7,500
+[Knife]Ribbon = 2,500
+[Knife]PumpkinCat
+[Knife]RGB Bubu = 1,100,000
+[Knife]Music = 2,500
+[Knife]Black Marker
+[Knife]Bubu = 5,000
+[Knife]Boxcutter
+[Knife]Cat = 2,500
+[Knife]Kingpin = 2,500
+[Knife]Jellyfish = 2,500
+[Knife]Jade = 4,000
+[Knife]Arcane = 2,500
+[Knife]Penguin Ice Cream = 2,500
+[Knife]Blossom = 2,500
+[Knife]Wire = 3,500
+[Knife]Hoodmas = 1,000
+[Knife]VIP
+[Knife]Frog = 4,250
+[Knife]Cupid = 2,500
+[Knife]Beary = 2,500
+[Knife]Shrimp = 2,500
+[Knife]Boy = 330,000
+[Knife]Purple Marker
+[Knife]Runic
+[Knife]Aqua = 2,500
+[Knife]Metal = 2,500
+[Knife]RGB Dual Bayonets = 505,000
+[Knife]WinterKarambit  = 5,000
+[Knife]Ban Hammer
+[Knife]Butterfly = 2,500
+[Knife]Pink
+[Knife]Spooky
+[Knife]Girl
+[Knife]Pink Marker
+[Knife]Reptile = 37,000
+[Knife]Void = 6,000
+[Knife]Brainrot = 2,500
+[Knife]Crystal Karambit
+[Knife]Red Tiger
+[Knife]RoseKarambit = 285,000
+[Knife]Nightmare = 2,500
+[Knife]Duck = 3,000
+[Knife]Mochi = 7,000
+[Knife]Purple Dagger
+[Knife]Bat Sharp = 1,950
+[Knife]Spatula
+[Knife]Ice Sword
+[Knife]Dragon = 11,000
+[Knife]Green Marker
+[Knife]Galaxy Karambit = 225,000
+[Knife]Love Kukri = 39,000
+[Knife]Undead = 2,500
+[Knife]Block
+[Knife]Soul = 3,500
+[Knife]Shader
+[Knife]Wild West = 23,000
+[Knife]Etheral = 2,500
+[Knife]RGB Butterfly = 5,000
+[Knife]Raygun = 6,000
+[Knife]Emerald Butterfly = 7,000
+[Knife]Candy = 2,750
+[Knife]Katar
+[Knife]Dual Bayonets = 23,000
+[Knife]Golden = 4,250
+[Knife]Military = 2,750
+[Knife]Banana = 2,500
+[Knife]Gothic = 2,500
+[Knife]GPO-Knife Prestige = 495,000
+[Knife]Galactic = 8,500
+[Knife]Cartoon = 3,750
+[Knife]GPO-Knife = 20,000
+[Flintlock]Balloon = 2,500
+[Flintlock]Music = 2,500
+[Deagle]Balloon = 2,500
+[Deagle]Sakura = 2,500
+[Deagle]Gold = 2,500
+[Wallet]Roblex = 240,000
+[Wallet]Audemoon = 230,000
+[Wallet]Designer = 3,500
+[Wallet]Designer Pink = 3,500
+[Wallet]Emerald Roblex = 10,000
+[Wallet]Rose Roblex = 120,000
+[Wallet]Kin = 4,100
+[Wallet]Gold Roblex
+[Wallet]Turtle
+[Wallet]Pig = 4,000
+[Wallet]Pink Purse II = 4,500
+[Wallet]Stacks = 5,000
+[Wallet]Pink Purse = 4,000
+[Wallet]Credit Card = 4,500
+[Wallet]Bitcoin = 5,000
+[Wallet]Credit Card Pink = 4,500
+[Bat]Pink Spiked = 5,000
+[House]Classic 1 = 35,000
+[House]Gingerbread House = 3,000
+[House]Halloween House = 3,000
+[House]Edge Residence = 1,000,000
+[House]Container House = 45,000
+[House]Da Restaurant = 3,000
+[House]Studio House = 100,000
+[House]Brick = 3,500
+[House]Brick Modern = 80,000
+[House]Villa = 175,000
+[House]Garage Home = 3,000
+[House]Villa Oxa Lux = 850,000
+[House]House 2 = 5,000
+[House]Villa Nova = 7,000
+[House]Modern = 15,000
+[House]Mary's Cottage 
+[House]Christmas House = 10,000
+[House]Pink House II = 60,000
+[House]Holiday Town = 3,000
+[House]Contemporary House = 30,000
+[House]Modern Town = 5,000
+[House]Duplex = 10,000
+[House]White Modern = 15,000
+[House]A Frame House
+[House]Trailer Park
+[House]Cliff House
+[House]Town = 4,500
+[House]Villa Nix = 900,000
+[House]Pizza Restaurant = 3,000
+[House]Pink House = 55,000
+[AR]Jungle Blaster
+[AR]Shadow = 1,700
+[AR]Danger
+[AR]Red Hot = 2,500
+[AR]Battleworn Purple
+[AR]Battleworn Red
+[AR]White Stripes
+[AR]Inferno = 3,000
+[AR]Valentine = 1,700
+[AR]Future
+[AR]Venom
+[AR]Pink Fuchsia
+[AR]Purple Yellow Wrap
+[AR]Hoodmas
+[AR]Electric = 1,800
+[AR]Halloween = 2,500
+[AR]Black & White
+[AR]Battleworn Blue
+[AR]Glassy
+[AR]Snow Wrap = 2,000
+[AR]Battleworn Pink
+[AR]Premium Red
+[AR]Blue Wrap = 3,000
+[AR]Matrix
+[AR]Luck = 3,000
+[AR]Galaxy = 12,500
+[AR]Rainbow
+[AR]Gold Glory
+[AR]Red Death
+[AR]Premium Yellow
+[AR]Christmas Wrap = 7,000
+[AR]Red Tiger
+[AR]Battleworn Orange
+[AR]1984
+[AR]Patriot = 2,500
+[AR]Battleworn Green
+[AR]Biohazard
+[AR]Icey
+[RPG]Jungle Blaster
+[RPG]Electric = 8,000
+[RPG]GPOII = 2,000
+[RPG]Snow Wrap = 2,000
+[RPG]GPO-Ice = 1,900
+[RPG]Red Hot
+[RPG]Halloween23 = 2,500
+[RPG]Stars
+[RPG]Ruby = 2,500
+[RPG]Biohazard
+[RPG]White Stripes
+[RPG]BrainrotShark
+[RPG]Inferno = 2,400
+[RPG]Sushi = 2,000
+[RPG]Portal = 2,500
+[RPG]Valentine = 5,000
+[RPG]Balloon
+[RPG]Cookie
+[RPG]Kitty = 3,250
+[RPG]Short Cake = 2,000
+[RPG]Venom
+[RPG]Galaxy = 5,750
+[RPG]Cake
+[RPG]Purple Yellow Wrap
+[RPG]Skull = 2,500
+[RPG]Black & White
+[RPG]Aqua = 2,250
+[RPG]Premium Red
+[RPG]Soul = 2,500
+[RPG]Love = 2,500
+[RPG]Gold Glory = 1,500
+[RPG]XMAS = 2,500
+[RPG]Christmas Wrap = 2,500
+[RPG]Battleworn Orange
+[RPG]Robot-Hero = 1,500
+[RPG]Toy = 3,000
+[RPG]Ribbon = 2,000
+[RPG]Danger
+[RPG]Hoodmas
+[RPG]Red Skull = 2,500
+[RPG]Cupid = 2,500
+[RPG]Lovely = 2,500
+[RPG]Paper
+[RPG]Xmas25 = 2,500
+[RPG]GingerBread
+[RPG]Heartbreak = 2,500
+[RPG]PumpkinCat
+[RPG]BrainrotSharkGolden = 3,500
+[RPG]Grumpy = 2,000
+[RPG]8-BIT = 2,500
+[RPG]Music = 2,000
+[RPG]Bubu = 2,000
+[RPG]Pink Fuchsia
+[RPG]Spooky = 2,500
+[RPG]Wire = 2,500
+[RPG]Beary = 2,000
+[RPG]Penguin = 2,500
+[RPG]Future
+[RPG]Brainrot = 2,000
+[RPG]XMAS24 = 2,500
+[RPG]Red Tiger = 2,500
+[RPG]SoulII = 2,500
+[RPG]Nightmare = 2,500
+[RPG]Duck = 2,000
+[RPG]Unicorn = 2,500
+[RPG]Cat = 2,500
+[RPG]Shadow = 4,000
+[RPG]Metal = 2,500
+[RPG]Shader
+[RPG]Shrimp = 2,500
+[RPG]Battleworn Purple
+[RPG]Luck = 5,000
+[RPG]Battleworn Red
+[RPG]Undead = 1,900
+[RPG]Blue Wrap = 1,000
+[RPG]Battleworn Pink
+[RPG]Premium Yellow
+[RPG]Icey 
+[RPG]Matrix
+[RPG]Etheral = 2,500
+[RPG]Glassy
+[RPG]Rainbow = 2,500
+[RPG]Candy = 2,750
+[RPG]Red Death = 2,500
+[RPG]Jellyfish = 2,000
+[RPG]Mystical = 2,500
+[RPG]Military = 2,750
+[RPG]1984
+[RPG]Gothic = 2,500
+[RPG]Patriot = 2,000
+[RPG]Battleworn Green
+[RPG]Cartoon = 3,000
+[RPG]Ice
+[AUG]Jungle Blaster
+[AUG]Shadow = 1,700
+[AUG]GPOII = 2,500
+[AUG]Danger
+[AUG]Red Hot = 1,500
+[AUG]Battleworn Purple
+[AUG]Battleworn Red
+[AUG]White Stripes
+[AUG]Inferno = 3,000
+[AUG]Valentine = 1,700
+[AUG]Battleworn Silver
+[AUG]Future
+[AUG]Venom
+[AUG]Pink Fuchsia
+[AUG]Purple Yellow Wrap
+[AUG]Red Tiger
+[AUG]Black & White
+[AUG]Electric = 1,800
+[AUG]Glassy
+[AUG]Snow Wrap
+[AUG]Battleworn Pink
+[AUG]Premium Red
+[AUG]Blue Wrap = 3,000
+[AUG]Matrix
+[AUG]Luck = 3,000
+[AUG]Galaxy = 12,500
+[AUG]Rainbow
+[AUG]Gold Glory
+[AUG]Red Death
+[AUG]Premium Yellow
+[AUG]Christmas Wrap = 8,000
+[AUG]Military = 2,750
+[AUG]Battleworn Orange
+[AUG]1984
+[AUG]Patriot = 1,500
+[AUG]Battleworn Green
+[AUG]Biohazard
+[AUG]Icey
+[Flamethrower]Jungle Blaster
+[Flamethrower]Shadow = 5,000
+[Flamethrower]Danger
+[Flamethrower]Red Hot
+[Flamethrower]Battleworn Purple
+[Flamethrower]Ruby = 2,500
+[Flamethrower]Biohazard
+[Flamethrower]White Stripes
+[Flamethrower]Balloon = 2,500
+[Flamethrower]Hoodmas
+[Flamethrower]Inferno = 2,400
+[Flamethrower]Glassy
+[Flamethrower]VIP
+[Flamethrower]Shrimp = 2,500
+[Flamethrower]Valentine = 8,500
+[Flamethrower]8-BIT
+[Flamethrower]XMAS24
+[Flamethrower]Nightmare
+[Flamethrower]Electric = 15,500
+[Flamethrower]Battleworn Silver
+[Flamethrower]Icey
+[Flamethrower]Kitty = 3,000
+[Flamethrower]Penguin = 2,500
+[Flamethrower]Future
+[Flamethrower]Mystical = 2,500
+[Flamethrower]Short Cake = 2,500
+[Flamethrower]Venom
+[Flamethrower]1984
+[Flamethrower]Pink Fuchsia
+[Flamethrower]Duck = 2,500
+[Flamethrower]Etheral = 2,500
+[Flamethrower]Doll = 2,500
+[Flamethrower]Purple Yellow Wrap
+[Flamethrower]Spooky = 2,500
+[Flamethrower]Shader
+[Flamethrower]Water = 2,500
+[Flamethrower]Stars = 2,500
+[Flamethrower]Black & White
+[Flamethrower]Gold Glory = 2,500
+[Flamethrower]Wire = 2,500
+[Flamethrower]Galaxy = 5,750
+[Flamethrower]Battleworn Pink
+[Flamethrower]Snow Wrap = 2,500
+[Flamethrower]Premium Yellow
+[Flamethrower]Matrix
+[Flamethrower]Blue Wrap = 2,500
+[Flamethrower]Luck = 9,000
+[Flamethrower]Rainbow
+[Flamethrower]Love
+[Flamethrower]Red Death
+[Flamethrower]XMAS = 2,500
+[Flamethrower]Christmas Wrap = 3,000
+[Flamethrower]Premium Red
+[Flamethrower]Battleworn Orange
+[Flamethrower]Red Tiger
+[Flamethrower]Patriot = 2,500
+[Flamethrower]Battleworn Green
+[Flamethrower]Cartoon = 2,500
+[Flamethrower]Metal = 2,500
+[DrumGun]Jungle Blaster
+[DrumGun]Shadow = 1,700
+[DrumGun]Danger
+[DrumGun]Lovely
+[DrumGun]Red Hot = 2,000
+[DrumGun]Battleworn Purple
+[DrumGun]Battleworn Red
+[DrumGun]White Stripes
+[DrumGun]Inferno = 3,000
+[DrumGun]Valentine = 1,700
+[DrumGun]Balloon
+[DrumGun]Battleworn Silver
+[DrumGun]Future
+[DrumGun]Venom
+[DrumGun]Pink Fuchsia
+[DrumGun]Purple Yellow Wrap
+[DrumGun]Snow Wrap = 1,500
+[DrumGun]Black & White
+[DrumGun]Electric = 1,800
+[DrumGun]Glassy
+[DrumGun]Block
+[DrumGun]Battleworn Pink
+[DrumGun]Premium Red
+[DrumGun]Blue Wrap = 3,000
+[DrumGun]Matrix
+[DrumGun]Luck = 3,000
+[DrumGun]Galaxy = 10,000
+[DrumGun]Rainbow
+[DrumGun]Gold Glory
+[DrumGun]Red Death
+[DrumGun]Premium Yellow
+[DrumGun]Christmas Wrap = 7,000
+[DrumGun]Red Tiger
+[DrumGun]Battleworn Orange
+[DrumGun]1984
+[DrumGun]Patriot = 2,000
+[DrumGun]Battleworn Green
+[DrumGun]Biohazard
+[DrumGun]Icey
+[P90]Jungle Blaster
+[P90]Shadow = 1,700
+[P90]Danger
+[P90]Red Hot = 1,700
+[P90]Battleworn Purple
+[P90]Battleworn Red
+[P90]White Stripes
+[P90]Inferno = 1,900
+[P90]Valentine = 1,700
+[P90]Future
+[P90]Venom
+[P90]Pink Fuchsia
+[P90]Purple Yellow Wrap
+[P90]Black & White
+[P90]Electric = 1,800
+[P90]Glassy
+[P90]Snow Wrap = 1,500
+[P90]Battleworn Pink
+[P90]Premium Red
+[P90]Blue Wrap = 1,500
+[P90]Matrix
+[P90]Luck = 1,900
+[P90]Galaxy = 5,000
+[P90]Rainbow
+[P90]Gold Glory
+[P90]Red Death
+[P90]Premium Yellow
+[P90]Christmas Wrap
+[P90]Red Tiger
+[P90]Battleworn Orange
+[P90]1984
+[P90]Patriot = 2,000
+[P90]Battleworn Green
+[P90]Biohazard
+[P90]Icey
